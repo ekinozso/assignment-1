@@ -8,10 +8,10 @@ choosing variable names!
 **Answer:**
 
 ```
-my_boolean_variable = True
-my_float_variable = 7.23
-my_int_varialbe = 77
-my_string_variable = "I love Computing so much"
+my_boolean_variable = False
+my_float_variable = 391.90
+my_int_varialbe = 93103
+my_string_variable = "SüngerBob<3Eslem"
 my_null_variable = None
 ```
 
