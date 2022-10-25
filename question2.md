@@ -16,8 +16,8 @@ intron = "GGGGGTATACCTATA"
 exon2 = "ACGCAAACATAGAGA"
 three_prime_UTR = "TTTTTTTTTTTAAAAAGCGG"
 
-my_fav_gene = promoter + start kodon + exon1 + \ 
-              intron + exon2 + stop kodon + 3_prime_UTR
+my_fav_gene = promoter + five_prime_UTR +  start kodon + exon1 + \ 
+              intron + exon2 + stop kodon + three_prime_UTR
 
 print("My favorite gene sequence is as follows:")
 print(my_fav_gene)
