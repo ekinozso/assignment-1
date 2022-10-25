@@ -10,7 +10,7 @@ choosing variable names!
 ```
 my_boolean_variable = False
 my_float_variable = 391.90
-my_int_varialbe = 93103
+my_int_variable = 93103
 my_string_variable = "SüngerBob<3Eslem"
 my_null_variable = None
 ```
