@@ -11,12 +11,12 @@ corresponding to individual nucleotide bases.
 
 '''
 Promoter = "TATATTTTTGGAGCCCGTATTAAG"
-5_prime_UTR = "AAATTGCAAATCGTATATGG"
+five_prime_UTR = "AAATTGCAAATCGTATATGG"
 start_codon = "ATG"
 exon1 = "GCATGAATGGGTACACA"
 intron = "GGGGGTATACCTATA"
 exon2 = "ACGCAAACATAGAGA"
-3_prime_UTR = "TTTTTTTTTTTAAAAAGCGG"
+three_prime_UTR = "TTTTTTTTTTTAAAAAGCGG"
 
 my_fav_gene = promoter + start kodon + exon1 + \ 
               intron + exon2 + stop kodon + 3_prime_UTR
